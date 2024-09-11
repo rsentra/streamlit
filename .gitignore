@@ -2,6 +2,8 @@
 __pycache__/
 pages1/
 poppler-23.11.0/
+static
+*.ipynb
 **/*.xlsx
 **/*.csv
 **/*.html
@@ -14,7 +16,8 @@ poppler-23.11.0/
 **/dist
 **/img
 **/*.spec
-.streamlit/secrets.toml
 **/*.pkl
 **/*.faiss
 **/*.py1
+.streamlit/secrets.toml
+docs/*.*
